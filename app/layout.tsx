@@ -3,6 +3,7 @@ import { MantineProvider, ColorSchemeScript } from "@mantine/core";
 import { theme } from "../theme";
 
 import "@mantine/core/styles.css";
+import "@mantine/spotlight/styles.css";
 
 export const metadata = {
   title: "Mantine Next.js template",
